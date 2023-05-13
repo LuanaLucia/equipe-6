@@ -29,7 +29,7 @@ const itens = {
     {
       id: "2",
       titulo: "Mãos Talentosas",
-      capa: "https://m.media-amazon.com/images/I/61IZbZWaZ+L._AC_SX522_.jpg",
+      capa: "https://br.web.img3.acsta.net/medias/nmedia/18/95/66/26/20421252.jpg",
       sinopse: '"Maos Talentosas" é um filme de drama baseado na história real do neurocirurgião Ben Carson, interpretado por Cuba Gooding Jr. O filme mostra sua infância pobre e como sua mãe o incentivou a estudar, superando dificuldades e preconceitos raciais. Ele se torna um dos cirurgiões mais renomados do mundo e se dedica a salvar a vida de crianças com doenças cerebrais.'
     },
     {
@@ -40,7 +40,7 @@ const itens = {
     },
     {
       id: "4",
-      titulo: "A Teoria de Tudo",
+      titulo: "King Richard",
       capa: "https://upload.wikimedia.org/wikipedia/pt/thumb/8/86/King_Richard_poster.jpeg/200px-King_Richard_poster.jpeg",
       sinopse: '"King Richard" é um filme biográfico que conta a história do pai das tenistas Venus e Serena Williams, interpretado por Will Smith. O filme retrata a determinação e visão de Richard Williams em treinar e guiar suas filhas em uma jornada rumo ao sucesso no mundo do tênis, apesar de enfrentar diversos desafios e obstáculos ao longo do caminho.'
     },
